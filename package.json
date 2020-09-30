@@ -1,0 +1,14 @@
+{
+  "name": "in-pee",
+  "version": "1.0.0",
+  "description": "an example of np-complete problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Severin",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
